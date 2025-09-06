@@ -26,3 +26,4 @@ A beautiful Pygame project that displays an animated Ganesha with:
 1. Clone the repository:
 
 ```bash
+https://github.com/RajTewari01/ganesha
