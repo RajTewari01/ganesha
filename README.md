@@ -1,4 +1,4 @@
-# Animated Ganesha with Mantra
+# 🕉️ Animated Ganesha with Mantra
 
 A beautiful Pygame project that displays an animated Ganesha with:
 
@@ -26,6 +26,5 @@ A beautiful Pygame project that displays an animated Ganesha with:
 1. Clone the repository:
 
 ```bash
-https://github.com/RajTewari01/ganesha
-
-
+git clone https://github.com/RajTewari01/ganesha.git
+cd ganesha
