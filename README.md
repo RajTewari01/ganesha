@@ -27,3 +27,14 @@ A beautiful Pygame project that displays an animated Ganesha with:
 
 ```bash
 https://github.com/RajTewari01/ganesha
+
+## 📂 Project Structure
+```bash
+animated-ganesha/
+├── ganesha.py           # Main Python script
+├── ganesha.png          # Ganesha image
+├── diya_flame.png       # Optional Diya/flame image
+├── ganesh_mantra.mp3    # Full Ganesh mantra audio
+├── README.md            # Project description
+├── LICENSE              # License file
+└── screenshots/         # Optional folder for GIF or PNG previews
